@@ -119,7 +119,11 @@
       </list>
     </option>
   </component>
+<<<<<<< Updated upstream
   <component name="RunManager" selected="Application.SummValue">
+=======
+  <component name="RunManager" selected="Application.Card">
+>>>>>>> Stashed changes
     <configuration name="Card" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Card" />
       <module name="CodeForces" />
@@ -137,6 +141,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="SummValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SummValue" />
       <module name="CodeForces" />
@@ -144,6 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+>>>>>>> Stashed changes
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Card" />
