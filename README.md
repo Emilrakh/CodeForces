@@ -1,3 +1,1 @@
-# CodeForces
-
-![alt text](/codeforces-telegram-square.png)
+# CodeForces ![alt text](/codeforces-telegram-square.png)
